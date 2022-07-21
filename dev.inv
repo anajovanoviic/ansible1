@@ -1,2 +1,2 @@
 [server1]
-172.22.206.69
+172.22.206.69 ansible_user=anaworker
